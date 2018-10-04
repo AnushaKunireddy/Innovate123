@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="b32eda1bdb3023000f2b2a9a489619c4" sys_domain="global" table="x_260067_innovate5_innovate_table1" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-02 15:14:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>883e16d7db7023000f2b2a9a4896199a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_260067_innovate5_innovate_table1" name="x_260067_innovate5_innovate_table1" sys_domain="global" view="20699ec6db3022004d27b31be0b8f546">b32eda1bdb3023000f2b2a9a489619c4</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_260067_innovate5_innovate_table1" sys_domain="global" view="20699ec6db3022004d27b31be0b8f546">b72eda1bdb3023000f2b2a9a489619c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-02 15:14:37</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-02 15:14:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>483e16d7db7023000f2b2a9a4896199c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_260067_innovate5_innovate_table1" name="x_260067_innovate5_innovate_table1" sys_domain="global" view="20699ec6db3022004d27b31be0b8f546">b32eda1bdb3023000f2b2a9a489619c4</sys_ui_form>
+            <sys_ui_section caption="Planning" display_value="Planning" name="x_260067_innovate5_innovate_table1" sys_domain="global" view="20699ec6db3022004d27b31be0b8f546">043e16d7db7023000f2b2a9a4896199b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-02 15:14:37</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-02 15:14:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>043e16d7db7023000f2b2a9a4896199e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_260067_innovate5_innovate_table1" name="x_260067_innovate5_innovate_table1" sys_domain="global" view="20699ec6db3022004d27b31be0b8f546">b32eda1bdb3023000f2b2a9a489619c4</sys_ui_form>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_260067_innovate5_innovate_table1" sys_domain="global" view="20699ec6db3022004d27b31be0b8f546">4c3e16d7db7023000f2b2a9a4896199c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-02 15:14:37</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_260067_innovate5_innovate_table1</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-02 15:14:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b32eda1bdb3023000f2b2a9a489619c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_260067_innovate5_innovate_table1</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Innovate57" source="x_260067_innovate5">c837fa21db3023000f2b2a9a4896198b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate57">c837fa21db3023000f2b2a9a4896198b</sys_scope>
+            <sys_update_name>sys_ui_form_sections_b32eda1bdb3023000f2b2a9a489619c4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-02 15:14:37</sys_updated_on>
+            <sys_user/>
+            <u_boolean_1>false</u_boolean_1>
+            <u_incident_source/>
+            <view display_value="cab_workbench" name="cab_workbench">20699ec6db3022004d27b31be0b8f546</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="change_request" label="innovate_table1" max_length="40" name="x_260067_innovate5_innovate_table1" sizeclass="1" type="collection">
+        <element label="Innovte57_row" max_length="40" name="innovte57_row" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="innovate table" label="table name" max_length="40" name="u_string_1" type="string"/>
+    </element>
+</database>

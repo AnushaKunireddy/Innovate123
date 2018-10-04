@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_string_1" label="table name" language="en" table="x_260067_innovate5_innovate_table1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_string_1</element>
+            <help/>
+            <hint/>
+            <label>table name</label>
+            <language>en</language>
+            <name>x_260067_innovate5_innovate_table1</name>
+            <plural>table names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-02 17:04:26</sys_created_on>
+            <sys_id>2857fad3dbb023000f2b2a9a489619de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>table name</sys_name>
+            <sys_package display_value="Innovate57" source="x_260067_innovate5">c837fa21db3023000f2b2a9a4896198b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate57">c837fa21db3023000f2b2a9a4896198b</sys_scope>
+            <sys_update_name>sys_documentation_x_260067_innovate5_innovate_table1_u_string_1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-02 17:04:26</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
