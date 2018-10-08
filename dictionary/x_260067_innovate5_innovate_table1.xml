@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="change_request" label="innovate_table1" max_length="40" name="x_260067_innovate5_innovate_table1" sizeclass="1" type="collection">
+    <element audit="true" extends="change_request" label="innovate_table1" max_length="40" name="x_260067_innovate5_innovate_table1" sizeclass="3" type="collection">
         <element label="Innovte57_row" max_length="40" name="innovte57_row" type="string"/>
+        <element label="Item number" max_length="32" name="item_number" type="string"/>
+        <element label="Test field" max_length="40" name="test_field" type="string"/>
+        <element label="the new field" max_length="40" name="the_new_field" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="human resource" label="Department" mandatory="true" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element label="Human resource" sequence="0" value="human resource"/>
+                <element label="Technology" sequence="1" value="technology"/>
+                <element label="Itil" sequence="2" value="itil"/>
+                <element label="Service" sequence="3" value="service"/>
+            </choice>
+        </element>
         <element attributes="edge_encryption_enabled=true" default="innovate table" label="table name" max_length="40" name="u_string_1" type="string"/>
     </element>
 </database>
