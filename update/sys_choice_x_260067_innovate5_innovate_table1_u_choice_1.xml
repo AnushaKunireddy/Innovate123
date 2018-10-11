@@ -5,7 +5,7 @@
             <dependent_value/>
             <element>u_choice_1</element>
             <hint/>
-            <inactive>false</inactive>
+            <inactive>true</inactive>
             <label>Human resource</label>
             <language>en</language>
             <name>x_260067_innovate5_innovate_table1</name>
@@ -15,10 +15,29 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>c139c601db0163000f2b2a9a48961936</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-10 03:10:43</sys_updated_on>
+            <value>human resource</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Humanresource</label>
+            <language>en</language>
+            <name>x_260067_innovate5_innovate_table1</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-10 03:10:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>39354975db0123000f2b2a9a4896193d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-08 00:12:19</sys_updated_on>
-            <value>human resource</value>
+            <sys_updated_on>2018-10-10 03:10:43</sys_updated_on>
+            <value>humanresource</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>

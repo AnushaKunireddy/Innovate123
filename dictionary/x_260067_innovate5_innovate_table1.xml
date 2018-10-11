@@ -1,18 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="change_request" label="innovate_table1" max_length="40" name="x_260067_innovate5_innovate_table1" sizeclass="3" type="collection">
+    <element audit="true" extends="change_request" label="innovate_table1" max_length="40" name="x_260067_innovate5_innovate_table1" sizeclass="4" type="collection">
         <element label="Innovte57_row" max_length="40" name="innovte57_row" type="string"/>
         <element label="Item number" max_length="32" name="item_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Requested for" max_length="40" name="requestedfor" type="string"/>
         <element label="Test field" max_length="40" name="test_field" type="string"/>
         <element label="the new field" max_length="40" name="the_new_field" type="string"/>
-        <element attributes="edge_encryption_enabled=true" choice="1" default="human resource" label="Department" mandatory="true" max_length="40" name="u_choice_1" type="string">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Department" mandatory="true" max_length="40" name="u_choice_1" type="string">
             <choice>
-                <element label="Human resource" sequence="0" value="human resource"/>
+                <element label="Humanresource" sequence="0" value="humanresource"/>
                 <element label="Technology" sequence="1" value="technology"/>
                 <element label="Itil" sequence="2" value="itil"/>
                 <element label="Service" sequence="3" value="service"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Sub_department" max_length="40" name="u_choice_2" type="string">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="requested for" max_length="40" name="u_requestedfor" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="innovate table" label="table name" max_length="40" name="u_string_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" dependent="u_choice_1" dependent_on_field="u_choice_1" label="what needed" max_length="40" name="u_string_2" type="string" use_dependent_field="true"/>
     </element>
 </database>

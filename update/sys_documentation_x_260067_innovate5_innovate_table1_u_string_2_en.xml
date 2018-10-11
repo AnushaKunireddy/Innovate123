@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_string_2" label="what needed" language="en" table="x_260067_innovate5_innovate_table1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_string_2</element>
+            <help/>
+            <hint/>
+            <label>what needed</label>
+            <language>en</language>
+            <name>x_260067_innovate5_innovate_table1</name>
+            <plural>what needed</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-09 14:18:04</sys_created_on>
+            <sys_id>0c64d229db0123000f2b2a9a4896195d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>what needed</sys_name>
+            <sys_package display_value="Innovate57" source="x_260067_innovate5">c837fa21db3023000f2b2a9a4896198b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate57">c837fa21db3023000f2b2a9a4896198b</sys_scope>
+            <sys_update_name>sys_documentation_x_260067_innovate5_innovate_table1_u_string_2_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-09 14:18:04</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
